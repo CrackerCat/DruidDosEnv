@@ -28,6 +28,4 @@ public class User {
     public void setAddress(String address) {
         this.address = address;
     }
-
-    //省略getter/setter
 }
